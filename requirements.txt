@@ -6,3 +6,4 @@ unstructured
 pdf2image
 pdfminer
 PyPDF2
+cohere
